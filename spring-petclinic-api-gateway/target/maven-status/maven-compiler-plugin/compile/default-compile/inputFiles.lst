@@ -1,0 +1,9 @@
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/VisitDetails.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetType.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/Visits.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetDetails.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/VisitsServiceClient.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayApplication.java
+/mnt/d/DevOps/mehmet_Hoca/petclinic-microservices/Project_505_Notes/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/OwnerDetails.java
